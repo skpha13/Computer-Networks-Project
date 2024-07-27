@@ -1,0 +1,21 @@
+TTL      IP                   COUNTRY            REGION   CITY              
+1        140.91.198.130       Germany            HE       Frankfurt am Main 
+2        62.67.24.22          Germany            HE       Frankfurt am Main 
+3        62.67.24.21          Germany            HE       Frankfurt am Main 
+4        171.75.8.25          United Kingdom     ENG      London            
+5        142.250.165.106      United States      CA       Mountain View     
+6        Request Timed Out                                                    
+7        142.251.241.74       United States      CA       Mountain View     
+8        192.178.109.218      United States      CA       Mountain View     
+9        108.170.238.60       United States      CA       Mountain View     
+10       142.251.249.33       United States      CA       Mountain View     
+11       142.250.60.102       United States      CA       Mountain View     
+12       142.250.215.195      United States      CA       Mountain View     
+13       192.178.81.239       United States      CA       Mountain View     
+14       192.178.72.202       United States      CA       Mountain View     
+15       192.178.74.251       United States      CA       Mountain View     
+16       142.251.51.41        United States      CA       Mountain View     
+17       66.249.94.28         United States      WA       Seattle           
+18       192.178.105.113      United States      CA       Mountain View     
+19       142.251.224.179      United States      CA       Mountain View     
+20       142.251.32.46        United States      NY       Franklin Square 

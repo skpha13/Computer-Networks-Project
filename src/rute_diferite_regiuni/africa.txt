@@ -1,0 +1,22 @@
+TTL      IP                   COUNTRY            REGION   CITY              
+1        192.168.0.1          Private IP
+2        Request Timed Out                                                    
+3        93.114.191.132       Romania            B        Bucharest         
+4        104.44.37.57         India              TN       Chennai           
+5        104.44.230.249       Germany            HE       Frankfurt am Main 
+6        104.44.20.15         Germany            BE       Berlin            
+7        104.44.30.103        Austria            9        Vienna            
+8        104.44.29.135        India              MH       Mumbai            
+9        104.44.19.72         United Arab Emirates AZ       Abu Dhabi         
+10       104.44.30.57         Switzerland        GE       Geneva            
+11       Request Timed Out                                                    
+12       104.44.29.168        France             PAC      Marseille         
+13       104.44.7.51          United Kingdom     ENG      London            
+14       104.44.16.59         United Kingdom     ENG      London            
+15       104.44.17.243        India              MH       Mumbai            
+16       104.44.29.192        South Africa       WC       Cape Town         
+17       104.44.20.66         South Africa       GP       Johannesburg      
+18       Request Timed Out                                                    
+19       Request Timed Out                                                    
+20       Request Timed Out                                                    
+21       127.0.0.1            Private IP

@@ -1,0 +1,33 @@
+TTL      IP                   COUNTRY            REGION   CITY              
+1        192.168.0.1          Private IP
+2        Request Timed Out                                                    
+3        93.114.191.132       Romania            B        Bucharest         
+4        195.2.29.1           France             IDF      Paris             
+5        195.2.27.198         Ireland            L        Artane            
+6        195.2.9.102          Spain              AN       Málaga            
+7        195.2.12.73          France             IDF      Paris             
+8        195.2.9.42           Spain              AN       Málaga            
+9        195.2.24.245         France             IDF      Paris             
+10       195.2.14.70          Germany            HE       Frankfurt am Main 
+11       202.97.92.209        China              BJ       Beijing           
+12       202.97.43.241        China              BJ       Beijing           
+13       202.97.66.190        China              BJ       Beijing           
+14       202.97.93.82         China              BJ       Beijing           
+15       113.96.5.82          China              GD       Guangzhou         
+16       Request Timed Out                                                    
+17       Request Timed Out                                                    
+18       Request Timed Out                                                    
+19       Request Timed Out                                                    
+20       Request Timed Out                                                    
+21       Request Timed Out                                                    
+22       Request Timed Out                                                    
+23       Request Timed Out                                                    
+24       Request Timed Out                                                    
+25       Request Timed Out                                                    
+26       Request Timed Out                                                    
+27       Request Timed Out                                                    
+28       Request Timed Out                                                    
+29       Request Timed Out                                                    
+30       Request Timed Out                                                    
+31       Request Timed Out                                                    
+32       Request Timed Out 

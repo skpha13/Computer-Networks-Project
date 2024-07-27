@@ -1,0 +1,24 @@
+TTL      IP                   COUNTRY            REGION   CITY              
+1        192.168.0.1          Private IP
+2        192.168.82.1         Private IP
+3        Request Timed Out                                                    
+4        Request Timed Out                                                    
+5        Request Timed Out                                                    
+6        Request Timed Out                                                    
+7        Request Timed Out                                                    
+8        Request Timed Out                                                    
+9        Request Timed Out                                                    
+10       Request Timed Out                                                    
+11       192.178.105.16       United States      CA       Mountain View     
+12       Request Timed Out                                                    
+13       Request Timed Out                                                    
+14       Request Timed Out                                                    
+15       Request Timed Out                                                    
+16       Request Timed Out                                                    
+17       Request Timed Out                                                    
+18       Request Timed Out                                                    
+19       Request Timed Out                                                    
+20       Request Timed Out                                                    
+21       Request Timed Out                                                    
+22       Request Timed Out                                                    
+23       142.251.32.46        United States      NY       Franklin Square

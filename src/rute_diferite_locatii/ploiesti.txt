@@ -1,0 +1,22 @@
+TTL      IP                   COUNTRY            REGION   CITY              
+1        192.168.0.1          Private IP
+2        89.44.208.118        Romania            B        Bucharest         
+3        93.114.191.132       Romania            B        Bucharest         
+4        195.2.29.1           France             IDF      Paris             
+5        195.2.27.206         Ireland            L        Artane            
+6        72.14.217.24         United States      CA       Mountain View     
+7        Request Timed Out                                                    
+8        142.251.227.248      United States      CA       Mountain View     
+9        192.178.107.122      United States      CA       Mountain View     
+10       Request Timed Out                                                    
+11       Request Timed Out                                                    
+12       142.251.79.236       United States      MD       Gaithersburg      
+13       Request Timed Out                                                    
+14       Request Timed Out                                                    
+15       Request Timed Out                                                    
+16       192.178.74.247       United States      CA       Mountain View     
+17       142.250.237.173      United States      CA       Mountain View     
+18       142.250.234.138      United States      CA       Mountain View     
+19       192.178.87.151       United States      CA       Mountain View     
+20       142.251.224.181      United States      CA       Mountain View     
+21       142.251.32.46        United States      NY       Franklin Square 
